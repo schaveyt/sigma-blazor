@@ -1,6 +1,7 @@
-# RAG Solution for C# Web Framework Documentation
+# RAG Solution Documentation Websites
 
-This project implements a Retrieval-Augmented Generation (RAG) solution for querying documentation of a C# web framework. It uses a folder of markdown files as its knowledge base and leverages Anthropic's Claude model for generating responses.
+This project implements a Retrieval-Augmented Generation (RAG) solution for querying
+documentation of a C# web framework. It uses a folder of markdown files as its knowledge base and leverages Anthropic's Claude model for generating responses.
 
 ## Getting Started
 
